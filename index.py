@@ -6,8 +6,8 @@ import threading
 from datetime import datetime
 
 
-path_to_backup = "/home/weston/Mcbackup/backups"
-path_to_temp = "/home/weston/Mcbackup/temp"
+path_to_backup = "/home/weston/Mcbackup/Mcbackup/backups"
+path_to_temp = "/home/weston/Mcbackup/Mcbackup/temp"
 
 
 def getServers():
